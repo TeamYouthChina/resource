@@ -1,0 +1,1 @@
+0,15,30,45 * * * * bash -c 'cd ~/frontend-resource && ./update.sh' >~/frontend-resource/update.txt 2>&1
